@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    cout<<"hello world";
-    cout<<"hello earth";
-return 0;
+int main() {
+
+    cout << "Please write cleaner code!";
+    
+    return 0;
+
 }
